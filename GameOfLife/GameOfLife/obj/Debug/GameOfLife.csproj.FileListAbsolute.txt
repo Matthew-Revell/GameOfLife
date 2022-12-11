@@ -1,0 +1,7 @@
+C:\Users\Admin\RiderProjects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+C:\Users\Admin\RiderProjects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+C:\Users\Admin\RiderProjects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\RiderProjects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+C:\Users\Admin\RiderProjects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
