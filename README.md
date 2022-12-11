@@ -13,6 +13,8 @@ The next state is created by applying the above rules simultaneously to every ce
  
 
 Example 1:
+
+
 ![image](https://user-images.githubusercontent.com/120280008/206889733-340d4dcd-69b2-4809-8b93-2387765bf6ce.png)
 
 
@@ -20,6 +22,8 @@ Example 1:
 Input: board = [[0,1,0],[0,0,1],[1,1,1],[0,0,0]]
 Output: [[0,0,0],[1,0,1],[0,1,1],[0,1,0]]
 Example 2:
+
+
 ![image](https://user-images.githubusercontent.com/120280008/206889737-7b206604-c7ef-43f9-980a-acaf24f3e649.png)
 
 
